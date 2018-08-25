@@ -1,0 +1,29 @@
+
+
+body {
+    background-image: url("../images/beercarbonation.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    cursor:url("../images/beermug.png"), default;
+    
+}
+
+
+.jumbotron {
+    margin-top: 20px;
+    background-image: url("../images/original_o-PINT-GLASS-BEER-facebook.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 1200px 360px;
+    color: white;
+}
+
+.card {
+    
+    -webkit-text-fill-color: orangered; 
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+
